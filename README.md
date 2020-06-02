@@ -5,8 +5,11 @@ using tensorflow 2.2:
 
 2 sec per epoch using GPU
 
+
 using pytorch 1.5:
+
 12 sec per epoch using GPU
+
 33 sec per epoch using CPU
 
 <img src="digit demo.png" width="300px" height="300px" />
