@@ -1,4 +1,4 @@
-# demostrate using pytorch with mnist dataset on CPU and GPU
+# demostrate PyTorch with mnist dataset on CPU and GPU
 using both high-level (i.e., sequential model) and medium-level APIs (i.e, subclassing model).
 
 Using tensorflow 2.2 (see the project mnist_digits_CNN_demo):
