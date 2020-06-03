@@ -1,5 +1,5 @@
 # demostrate PyTorch with mnist dataset on CPU and GPU
-using both high-level (i.e., sequential model) and medium-level APIs (i.e, subclassing model).
+This project used both high-level API (i.e., sequential model, with GPU) and medium-level API (i.e, subclassing model, with CPU) to build NN model.
 
 Using tensorflow 2.2 (see the project mnist_digits_CNN_demo):
 
